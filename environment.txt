@@ -1,0 +1,11 @@
+pennylane
+pennylane-qiskit
+pennylane-lightning
+tensorflow
+torch
+stable-baselines3
+gym
+matplotlib
+numpy
+scipy
+nbgitpuller
