@@ -20,4 +20,6 @@ dependencies:
   - pip:
     - stable-baselines3  # DRL library for TensorFlow/PyTorch
     - gym                # OpenAI Gym for reinforcement learning environments
-    - nbgitpuller        # To enable pulling content with nbgitpuller
+    - pennylane            # PennyLane for quantum machine learning
+    - pennylane-qiskit     # PennyLane plugin for Qiskit
+    - pennylane-lightning  # PennyLane plugin for optimized simulation
